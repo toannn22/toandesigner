@@ -17300,26 +17300,6 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 80px;
 }
 
-.u-header .u-menu-1 {
-  margin: 22px auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
-}
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
-}
 
 
 
@@ -17328,11 +17308,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 194px;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
+  font-family: "Alex Brush";
+  font-size: 3.75rem;
+  width: 423px;
   margin: 49px auto;
 }
 @media (max-width: 1199px) {
